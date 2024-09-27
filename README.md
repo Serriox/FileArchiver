@@ -1,6 +1,6 @@
 # FileArchiver
 
-##
+## Description
 Archive and unpack archives with this simple app
 
 ## How to use?
